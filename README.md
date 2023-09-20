@@ -1,1 +1,1 @@
-# wireless-power-transmission-on-EV-vehiicle
+# wireless-power-transmission-on-EV-vehicle
